@@ -11,6 +11,15 @@
   </url>
   
   <url>
+    <loc>https://bborange.online/2020/06/14/Hexo/</loc>
+    
+    <lastmod>2023-10-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bborange.online/2023/03/18/Docsify/</loc>
     
     <lastmod>2023-10-05</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://bborange.online/2023/03/20/KMS/</loc>
-    
-    <lastmod>2023-10-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bborange.online/2020/06/14/Hexo/</loc>
     
     <lastmod>2023-10-05</lastmod>
     
@@ -65,13 +65,6 @@
 
   
   <url>
-    <loc>https://bborange.online/tags/CloudServices/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://bborange.online/tags/Document-Manage/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -79,7 +72,7 @@
   </url>
   
   <url>
-    <loc>https://bborange.online/tags/Blog/</loc>
+    <loc>https://bborange.online/tags/CloudServices/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -87,6 +80,13 @@
   
   <url>
     <loc>https://bborange.online/tags/Crack/</loc>
+    <lastmod>2023-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bborange.online/tags/Blog/</loc>
     <lastmod>2023-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
